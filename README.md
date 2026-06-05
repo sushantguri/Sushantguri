@@ -18,24 +18,18 @@
 
 ## 👨‍💻 About Me
 
-```python
-class SushantGuri:
-    name       = "Sushant Guri"
-    role       = ["Robotics Engineer", "Full-Stack Developer", "AI Enthusiast"]
-    company    = "Spyhostech (Founder)"
-    education  = "B.Tech Computer Science"
-    location   = "India 🇮🇳"
+Hi there! I'm **Sushant Guri**, a passionate **Computer Science undergraduate** from India 🇮🇳 who loves building systems where hardware meets software.
 
-    passions   = ["🤖 Robotics & Automation", "🧠 Agentic AI & LLMs",
-                  "🚁 FPV Drones", "☁️ Cloud (GCP)", "🌐 Web Dev"]
-
-    current    = ["AI-powered agricultural solutions",
-                  "React-based web platforms",
-                  "Robotics Club — Event Head",
-                  "Growing Spyhostech products"]
-
-    motto      = "Build • Learn • Innovate • Repeat 🔁"
-```
+- 🎓 Pursuing **B.Tech in Computer Science**
+- 🏢 Founder of **[Spyhostech](https://github.com/sushantguri)** — IT Solutions Company
+- 🤖 **Robotics Club Event Head** — organizing workshops & tech events
+- 🌾 Working on **AI-powered agricultural solutions**
+- 🚁 Building custom **FPV racing drones**
+- 🧠 Exploring **Agentic AI & LLM Applications**
+- ⚛️ Developing **React-based web platforms**
+- ☁️ Passionate about **Google Cloud Platform**
+- 💬 Ask me about **Robotics, AI, Web Dev, or Drones**
+- ⚡ Fun fact: I enjoy building systems where **hardware meets software**
 
 ---
 
@@ -100,8 +94,8 @@ class SushantGuri:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushantguri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantguri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sushantguri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sushantguri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -111,7 +105,7 @@ class SushantGuri:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sushantguri&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=sushantguri&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
 
 </div>
 
@@ -121,7 +115,7 @@ class SushantGuri:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sushantguri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=sushantguri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
@@ -139,7 +133,7 @@ class SushantGuri:
 
 ## 🌱 Skill Progress
 
-```text
+```
 🤖  Robotics & Automation     ████████████████████░   95%
 ⚛️   React Development         ███████████████████░░   90%
 🧠  Artificial Intelligence   ███████████████████░░   90%
