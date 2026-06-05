@@ -1,15 +1,13 @@
-
 <div align="center">
 
-# Sushant Guri
+# 👋 Hey, I'm Sushant Guri
 
-### Robotics Engineer • Full-Stack Developer • AI Enthusiast • Founder @ Spyhostech
+### 🤖 Robotics Engineer • 💻 Full-Stack Developer • 🧠 AI Enthusiast • 🚀 Founder @ Spyhostech
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Robotics+%7C+AI+%7C+Cloud+Computing;Drone+Developer+%7C+Web+Developer;Always+Learning+Something+New" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Robotics+%7C+AI+%7C+Cloud+Computing;Drone+Developer+%7C+Web+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=sushantguri&label=Profile+Views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/sushantguri?label=Followers&style=social)](https://github.com/sushantguri)
 
 </div>
 
@@ -17,108 +15,71 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science undergraduate passionate about building intelligent systems that bridge software and hardware.
-
-My interests include:
+I'm a **Computer Science undergraduate** passionate about building intelligent systems that bridge software and hardware.
 
 - 🤖 Robotics & Automation
-- 🧠 Artificial Intelligence
-- 🚁 FPV Drones
-- ☁️ Cloud Computing
-- 🌐 Full-Stack Web Development
+- 🧠 Artificial Intelligence & Agentic AI
+- 🚁 FPV Drones & Hardware
+- ☁️ Cloud Computing (GCP)
+- 🌐 Full-Stack Web Development (React, Node.js)
 - 📊 Data Analytics
 
-Currently working on AI-powered solutions, robotics projects, and scalable web applications.
+> 💡 *I enjoy building systems where hardware meets software — whether it's an AI assistant, a web application, or a flying drone.*
 
 ---
 
 ## 🎯 Current Focus
 
-- Building AI-powered agricultural solutions
-- Exploring Agentic AI and LLM Applications
-- Developing React-based web platforms
-- Robotics Club Leadership & Event Management
-- Expanding Spyhostech services and products
+```text
+🌾 Building AI-powered agricultural solutions
+🤖 Exploring Agentic AI and LLM Applications
+⚛️  Developing React-based web platforms
+🏆 Robotics Club Leadership & Event Management
+🏢 Expanding Spyhostech services and products
+```
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,cpp,c" />
-</p>
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
 
 ### Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+### Backend & Database
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode" />
-</p>
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ### Robotics & Hardware
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-</p>
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏋️ FitnessBee
-
-A modern fitness and health tracking platform built with React.js featuring:
-
-- User authentication
-- API integration
-- Interactive dashboards
-- Progress analytics
-
----
-
-### 🌾 Farmer Expert AI Assistant
-
-Google Cloud Agentic AI Hackathon project providing:
-
-- Expert farming guidance
-- AI-powered recommendations
-- Real-time agricultural assistance
-
----
-
-### 🚁 FPV Drone Platform
-
-Custom-built FPV drone ecosystem focused on:
-
-- Flight optimization
-- Hardware integration
-- Performance tuning
-- Drone racing applications
-
----
-
-### 🏢 Spyhostech
-
-IT solutions company providing:
-
-- Cloud Hosting
-- ERP Systems
-- Digital Marketing
-- Custom Software Development
-- Business Automation Solutions
+| 🚀 Project | 📝 Description | 🔧 Tech |
+|---|---|---|
+| [🏋️ FitnessBee](https://github.com/sushantguri) | Fitness & health tracking platform with dashboards & analytics | React, API, Auth |
+| [🌾 Farmer Expert AI](https://github.com/sushantguri) | AI-powered agricultural assistant — Google Cloud Hackathon | Python, GCP, LLM |
+| [🚁 FPV Drone Platform](https://github.com/sushantguri) | Custom FPV drone ecosystem with flight optimization | Hardware, C++, RF |
+| [🏢 Spyhostech](https://github.com/sushantguri) | IT solutions: Cloud Hosting, ERP, Digital Marketing | Full-Stack, Cloud |
+| [🌐 Portfolio](https://github.com/sushantguri/Portfolio) | Personal portfolio website | HTML, CSS |
 
 ---
 
@@ -126,9 +87,9 @@ IT solutions company providing:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true" />
+![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantguri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantguri&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -138,7 +99,7 @@ IT solutions company providing:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=sushantguri&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -148,89 +109,59 @@ IT solutions company providing:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushantguri&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🏆 Achievements
-
-- Google Cloud Agentic AI Hackathon Participant
-- Robotics Club Event Head
-- Founder of Spyhostech
-- FPV Drone Builder
-- React Developer
-- AI & Cloud Enthusiast
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology (Computer Science)**
-
-Focused Areas:
-
-- Artificial Intelligence
-- Software Engineering
-- Cloud Computing
-- Data Structures & Algorithms
-- Robotics Systems
 
 ---
 
 ## 🌱 Learning Journey
 
 ```text
-Artificial Intelligence     █████████░ 90%
-React Development           █████████░ 90%
-Cloud Computing             ████████░░ 80%
-Robotics & Automation       █████████░ 90%
-Machine Learning            ████████░░ 80%
-````
+Artificial Intelligence     █████████░  90%
+React Development           █████████░  90%
+Robotics & Automation       █████████░  90%
+Cloud Computing             ████████░░  80%
+Machine Learning            ████████░░  80%
+```
 
 ---
 
-## 🤝 Leadership
+## 🏆 Achievements & Highlights
 
-### Robotics Club Event Head
+- 🥇 **Google Cloud Agentic AI Hackathon** Participant
+- 🤖 **Robotics Club Event Head** — organized workshops & tech events
+- 🏢 **Founder of Spyhostech** — IT solutions company
+- 🚁 **FPV Drone Builder** — custom-built racing drones
+- ⚛️ **React Developer** — production web apps
+- ☁️ **AI & Cloud Enthusiast** — GCP, LLMs, Agentic systems
 
-Responsibilities:
+---
 
-* Organizing technical events
-* Conducting workshops
-* Managing project showcases
-* Mentoring students
-* Promoting innovation culture
+## 🎓 Education
+
+🎓 **Bachelor of Technology — Computer Science**
+
+Focused Areas: Artificial Intelligence • Software Engineering • Cloud Computing • Data Structures & Algorithms • Robotics Systems
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<div align="center">
 
-<a href="https://github.com/sushantguri">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-sushantguri-181717?style=for-the-badge&logo=github)](https://github.com/sushantguri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushant_Guri-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sushant-guri/)
+[![Email](https://img.shields.io/badge/Email-sushantv355@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sushantv355@gmail.com)
 
-</p>
-
-
-📧 Email: [your-email@example.com](mailto:your-sushantv355@gmail.com)
-
-💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sushant-guri/)
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building systems where hardware meets software—whether it's an AI assistant, a web application, or a flying drone.
+</div>
 
 ---
 
 <div align="center">
 
-### Build • Learn • Innovate • Repeat
+### 🔨 Build • 📚 Learn • 💡 Innovate • 🔄 Repeat
+
+*Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations.*
 
 </div>
-```
