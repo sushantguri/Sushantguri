@@ -1,85 +1,98 @@
 <div align="center">
 
-# 👋 Hey, I'm Sushant Guri
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sushant%20Guri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Robotics%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16" />
 
-### 🤖 Robotics Engineer • 💻 Full-Stack Developer • 🧠 AI Enthusiast • 🚀 Founder @ Spyhostech
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=🤖+Building+Intelligent+Systems;🚁+Drone+Developer+%26+FPV+Builder;🌾+AI-Powered+Agricultural+Solutions;☁️+Cloud+Computing+%26+GCP;🏢+Founder+%40+Spyhostech;⚛️+React+%26+Full-Stack+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Robotics+%7C+AI+%7C+Cloud+Computing;Drone+Developer+%7C+Web+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sushantguri&label=Profile+Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/sushantguri?label=Followers&style=social)](https://github.com/sushantguri)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sushantguri&label=Profile+Views&color=58A6FF&style=for-the-badge" />
+  <a href="https://github.com/sushantguri?tab=followers">
+    <img src="https://img.shields.io/github/followers/sushantguri?label=Followers&style=for-the-badge&color=58A6FF" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Robotics-brightgreen?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science undergraduate** passionate about building intelligent systems that bridge software and hardware.
+```python
+class SushantGuri:
+    name       = "Sushant Guri"
+    role       = ["Robotics Engineer", "Full-Stack Developer", "AI Enthusiast"]
+    company    = "Spyhostech (Founder)"
+    education  = "B.Tech Computer Science"
+    location   = "India 🇮🇳"
 
-- 🤖 Robotics & Automation
-- 🧠 Artificial Intelligence & Agentic AI
-- 🚁 FPV Drones & Hardware
-- ☁️ Cloud Computing (GCP)
-- 🌐 Full-Stack Web Development (React, Node.js)
-- 📊 Data Analytics
+    passions   = ["🤖 Robotics & Automation", "🧠 Agentic AI & LLMs",
+                  "🚁 FPV Drones", "☁️ Cloud (GCP)", "🌐 Web Dev"]
 
-> 💡 *I enjoy building systems where hardware meets software — whether it's an AI assistant, a web application, or a flying drone.*
+    current    = ["AI-powered agricultural solutions",
+                  "React-based web platforms",
+                  "Robotics Club — Event Head",
+                  "Growing Spyhostech products"]
 
----
-
-## 🎯 Current Focus
-
-```text
-🌾 Building AI-powered agricultural solutions
-🤖 Exploring Agentic AI and LLM Applications
-⚛️  Developing React-based web platforms
-🏆 Robotics Club Leadership & Event Management
-🏢 Expanding Spyhostech services and products
+    motto      = "Build • Learn • Innovate • Repeat 🔁"
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
+<div align="center">
 
-### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+**Languages**
 
-### Backend & Database
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Cloud & DevOps
-![GCP](https://skillicons.dev/icons?i=gcp)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+**Frontend**
 
-### Robotics & Hardware
-![Arduino](https://skillicons.dev/icons?i=arduino)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Robotics & Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-| 🚀 Project | 📝 Description | 🔧 Tech |
-|---|---|---|
-| [🏋️ FitnessBee](https://github.com/sushantguri) | Fitness & health tracking platform with dashboards & analytics | React, API, Auth |
-| [🌾 Farmer Expert AI](https://github.com/sushantguri) | AI-powered agricultural assistant — Google Cloud Hackathon | Python, GCP, LLM |
-| [🚁 FPV Drone Platform](https://github.com/sushantguri) | Custom FPV drone ecosystem with flight optimization | Hardware, C++, RF |
-| [🏢 Spyhostech](https://github.com/sushantguri) | IT solutions: Cloud Hosting, ERP, Digital Marketing | Full-Stack, Cloud |
-| [🌐 Portfolio](https://github.com/sushantguri/Portfolio) | Personal portfolio website | HTML, CSS |
+<div align="center">
+
+| Project | Description | Tech |
+|:---:|:---|:---:|
+| 🏋️ **FitnessBee** | Modern fitness & health tracking with interactive dashboards | `React` `API` `Auth` |
+| 🌾 **Farmer Expert AI** | AI agricultural assistant — Google Cloud Agentic AI Hackathon | `Python` `GCP` `LLM` |
+| 🚁 **FPV Drone Platform** | Custom FPV drone with flight optimization & hardware tuning | `C++` `Hardware` `RF` |
+| 🏢 **Spyhostech** | IT company — Cloud Hosting, ERP, Digital Marketing, Automation | `Full-Stack` `Cloud` |
+| 🌐 **Portfolio** | Personal portfolio website | `HTML` `CSS` |
+
+</div>
 
 ---
 
@@ -87,9 +100,8 @@ I'm a **Computer Science undergraduate** passionate about building intelligent s
 
 <div align="center">
 
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantguri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantguri&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushantguri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantguri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -99,7 +111,17 @@ I'm a **Computer Science undergraduate** passionate about building intelligent s
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sushantguri&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=sushantguri&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sushantguri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 
 </div>
 
@@ -109,40 +131,39 @@ I'm a **Computer Science undergraduate** passionate about building intelligent s
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushantguri&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantguri&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B35" />
 
 </div>
 
 ---
 
-## 🌱 Learning Journey
+## 🌱 Skill Progress
 
 ```text
-Artificial Intelligence     █████████░  90%
-React Development           █████████░  90%
-Robotics & Automation       █████████░  90%
-Cloud Computing             ████████░░  80%
-Machine Learning            ████████░░  80%
+🤖  Robotics & Automation     ████████████████████░   95%
+⚛️   React Development         ███████████████████░░   90%
+🧠  Artificial Intelligence   ███████████████████░░   90%
+☁️   Cloud Computing (GCP)     ████████████████░░░░░   80%
+🤖  Machine Learning          ████████████████░░░░░   80%
+🌐  Backend Development       ███████████████░░░░░░   75%
 ```
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Google Cloud Agentic AI Hackathon** Participant
-- 🤖 **Robotics Club Event Head** — organized workshops & tech events
-- 🏢 **Founder of Spyhostech** — IT solutions company
-- 🚁 **FPV Drone Builder** — custom-built racing drones
-- ⚛️ **React Developer** — production web apps
-- ☁️ **AI & Cloud Enthusiast** — GCP, LLMs, Agentic systems
+<div align="center">
 
----
+| 🎖️ Achievement | 📝 Details |
+|:---:|:---|
+| 🥇 Google Cloud Hackathon | Agentic AI Hackathon Participant |
+| 🤖 Robotics Club | Event Head — organized workshops & tech events |
+| 🏢 Spyhostech | Founder — Cloud Hosting, ERP, Digital Marketing |
+| 🚁 Drone Builder | Custom FPV racing drone hardware |
+| ⚛️ React Developer | Production web applications |
+| ☁️ Cloud Enthusiast | GCP, LLMs & Agentic AI Systems |
 
-## 🎓 Education
-
-🎓 **Bachelor of Technology — Computer Science**
-
-Focused Areas: Artificial Intelligence • Software Engineering • Cloud Computing • Data Structures & Algorithms • Robotics Systems
+</div>
 
 ---
 
@@ -150,9 +171,9 @@ Focused Areas: Artificial Intelligence • Software Engineering • Cloud Comput
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sushantguri-181717?style=for-the-badge&logo=github)](https://github.com/sushantguri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushant_Guri-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sushant-guri/)
-[![Email](https://img.shields.io/badge/Email-sushantv355@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sushantv355@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%40sushantguri-181717?style=for-the-badge&logo=github)](https://github.com/sushantguri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushant_Guri-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sushant-guri/)
+[![Email](https://img.shields.io/badge/Email-sushantv355%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantv355@gmail.com)
 
 </div>
 
@@ -160,8 +181,8 @@ Focused Areas: Artificial Intelligence • Software Engineering • Cloud Comput
 
 <div align="center">
 
-### 🔨 Build • 📚 Learn • 💡 Innovate • 🔄 Repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-*Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations.*
+*⭐ If you find my work interesting, feel free to star my repos and connect!*
 
 </div>
