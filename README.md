@@ -115,7 +115,7 @@ Hi there! I'm **Sushant Guri**, a passionate **Computer Science undergraduate** 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sushantguri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="github-profile-trophy-fork-two.vercel.app/?username=sushantguri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
