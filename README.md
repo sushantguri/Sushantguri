@@ -21,7 +21,7 @@
 Hi there! I'm **Sushant Guri**, a passionate **Computer Science undergraduate** from India 🇮🇳 who loves building systems where hardware meets software.
 
 - 🎓 Pursuing **B.Tech in Computer Science**
-- 🏢 Founder of **[Spyhostech](https://github.com/sushantguri)** — IT Solutions Company
+- 🏢 Interned at **[Spyhostech](https://spyhostech.com)** as a **Developer** — IT Solutions Company
 - 🤖 **Robotics Club Event Head** — organizing workshops & tech events
 - 🌾 Working on **AI-powered agricultural solutions**
 - 🚁 Building custom **FPV racing drones**
@@ -115,7 +115,7 @@ Hi there! I'm **Sushant Guri**, a passionate **Computer Science undergraduate** 
 
 <div align="center">
 
-<img src="github-profile-trophy-fork-two.vercel.app/?username=sushantguri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sushantguri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
@@ -152,7 +152,7 @@ Hi there! I'm **Sushant Guri**, a passionate **Computer Science undergraduate** 
 |:---:|:---|
 | 🥇 Google Cloud Hackathon | Agentic AI Hackathon Participant |
 | 🤖 Robotics Club | Event Head — organized workshops & tech events |
-| 🏢 Spyhostech | Founder — Cloud Hosting, ERP, Digital Marketing |
+| 🏢 Spyhostech | Developer Intern — Cloud Hosting, ERP, Digital Marketing |
 | 🚁 Drone Builder | Custom FPV racing drone hardware |
 | ⚛️ React Developer | Production web applications |
 | ☁️ Cloud Enthusiast | GCP, LLMs & Agentic AI Systems |
