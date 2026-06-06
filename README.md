@@ -111,11 +111,16 @@ Hi there! I'm **Sushant Guri**, a passionate **Computer Science undergraduate** 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Badges
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sushantguri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Hackathon%20Participant-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics%20Club-Event%20Head-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Internship](https://img.shields.io/badge/Spyhostech-Developer%20Intern-FF6B35?style=for-the-badge&logo=github&logoColor=white)
+![FPV](https://img.shields.io/badge/FPV%20Drones-Custom%20Builder-red?style=for-the-badge&logo=airplayaudio&logoColor=white)
+![React](https://img.shields.io/badge/React-Production%20Apps-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AI](https://img.shields.io/badge/Agentic%20AI-LLM%20Developer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
