@@ -135,7 +135,7 @@ I'm **Sushant Guri**, a **Computer Science undergraduate** from India 🇮🇳 w
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sushantguri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F172A&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantguri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=sushantguri&theme=tokyonight&hide_border=true&background=0F172A&stroke=6366F1&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=6366F1&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=sushantguri&theme=tokyonight&hide_border=true&background=0F172A&stroke=6366F1&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=6366F1&dates=8b949e&cache_seconds=86400" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantguri&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=6366F1&line=6366F1&point=A855F7" />
 
